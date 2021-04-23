@@ -74,8 +74,8 @@
 		36074CEC26330D5E00E19D7E /* HomeCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeCollectionViewCell.swift; sourceTree = "<group>"; };
 		36074CED26330D5E00E19D7E /* HomeCollectionViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = HomeCollectionViewCell.xib; sourceTree = "<group>"; };
 		36074CF12633107300E19D7E /* ImageViewEx.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageViewEx.swift; sourceTree = "<group>"; };
-		36074D032633156C00E19D7E /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		36074D0826331E0700E19D7E /* ViewEx.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewEx.swift; sourceTree = "<group>"; };
+		36074D4726336AE200E19D7E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		9FCE68F300CD3696CE2F0106 /* Pods-printful.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-printful.release.xcconfig"; path = "Target Support Files/Pods-printful/Pods-printful.release.xcconfig"; sourceTree = "<group>"; };
 		C182B66236B92C52EB3B5EA5 /* libPods-printful.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-printful.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
@@ -125,8 +125,8 @@
 		36074C682632FCD800E19D7E /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				36074D4726336AE200E19D7E /* Info.plist */,
 				36074C532632FCC800E19D7E /* AppDelegate.swift */,
-				36074D032633156C00E19D7E /* Info.plist */,
 			);
 			path = "Supporting Files";
 			sourceTree = "<group>";
